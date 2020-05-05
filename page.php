@@ -1,4 +1,4 @@
-﻿<?php get_header();?>
+<?php get_header();?>
 		<div class="c-wrap">
 			<div class="c-grid">
 				<div class="p-contents">

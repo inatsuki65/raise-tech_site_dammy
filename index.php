@@ -1,9 +1,9 @@
-﻿<?php get_header();?>
+<?php get_header();?>
 		<div class="c-wrap">
 			<div class="c-grid">
 				<div class="p-contents">
 					<div class="back_image">
-						
+						<img src="<?php bloginfo('template_directory'); ?>/images/raise-tech_main.png" alt="背景" class="image_size">
 					</div>
 				</div> 
 				<?php if($wp_query -> max_num_pages > 1 ) : ?>
